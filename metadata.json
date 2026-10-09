@@ -1,0 +1,6 @@
+{
+  "name": "MAXVEY — For Those Who Move Different",
+  "description": "Official store for MAXVEY luxury streetwear and apparel. Designed in Nigeria for those who move different.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
